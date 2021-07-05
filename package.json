@@ -1,0 +1,20 @@
+{
+  "name": "snowpack-plugin-content-replace",
+  "version": "1.0.0",
+  "description": "A plugin for snowpack that replaces strings in output files.",
+  "main": "snowpack-plugin-content-replace.js",
+  "author": {
+    "name": "Christoph Lupprich",
+    "email": "christoph@luppri.ch"
+  },
+  "keywords": ["snowpack"],
+  "license": "MIT",
+  "homepage": "https://github.com/clupprich/snowpack-plugin-content-replace" ,
+  "bugs": {
+    "url" : "https://github.com/clupprich/snowpack-plugin-content-replace/issues"
+  },
+  "repository": "github:clupprich/snowpack-plugin-content-replace",
+  "dependencies": {
+
+  }
+}
