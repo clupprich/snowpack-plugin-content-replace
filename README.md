@@ -18,7 +18,8 @@ export default {
           'default.hbs': {
             // '{{asset "built/assets/css/screen.css"}}' will be replaced with '{{asset "css/screen.css"}}'
             '{{asset "built/assets/css/screen.css"}}': '{{asset "css/screen.css"}}',
-            '{{asset "built/assets/js/index.js"}}' : '{{asset "built/assets/js/index.js"}}'
+            // '{{asset "built/assets/js/index.js"}}' will be replaced with '{{asset "js/index.js"}}'
+            '{{asset "built/assets/js/index.js"}}' : '{{asset "js/index.js"}}'
           }
         }
       }
